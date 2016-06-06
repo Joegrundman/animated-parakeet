@@ -1,0 +1,23 @@
+{
+  "name": "timestamp-service",
+  "version": "1.0.0",
+  "description": "Timestamp Microservice for fcc basejump",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joegrundman/animated-parakeet.git"
+  },
+  "keywords": [
+    "timestamp",
+    "fcc"
+  ],
+  "author": "Joegrundman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Joegrundman/animated-parakeet/issues"
+  },
+  "homepage": "https://github.com/Joegrundman/animated-parakeet#readme"
+}
