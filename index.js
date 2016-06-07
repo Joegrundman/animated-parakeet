@@ -15,9 +15,9 @@ var infoHtml =
     '<div style="margin-left: 4em">' +   
     '<p>Pass date as a url parameter. Both unix and natural language date formats are supported<p>'+
     '<h3>Example usage:</h3>' + 
-    '<code>localhost:3000/December%2015,%202015</code>' +
+    '<code>http://rs-timestamp-microserver.herokuapp.com//December%2015,%202015</code>' +
     '<br><br>'+
-    '<code>localhost:3000/1450137600</code>'+
+    '<code>http://rs-timestamp-microserver.herokuapp.com//1450137600</code>'+
     '<h3>Example output:</h3>' +
     '<code>{ "unix": 1450137600, "natural": "December 15, 2015" }</code>' +
     '</div>' +
