@@ -13,7 +13,7 @@ var infoHtml =
     '<h1 style="text-align: center">Timestamp Microservice</h1>' +
     '<br>' + 
     '<div style="margin-left: 4em">' +   
-    '<p>Pass date as a url parameter. Both unix or natural language date formats are supported<p>'+
+    '<p>Pass date as a url parameter. Both unix and natural language date formats are supported<p>'+
     '<h3>Example usage:</h3>' + 
     '<code>localhost:3000/December%2015,%202015</code>' +
     '<br><br>'+
