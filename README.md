@@ -12,3 +12,5 @@ Natural language dates will have spaces parsed from
 ´%20´
 
 If no valid timestamp is given, it will return null
+
+This is a pure node server
